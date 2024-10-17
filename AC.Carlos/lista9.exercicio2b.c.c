@@ -1,0 +1,1 @@
+O printf("\nNúmero de letras : %d=", strlen(p_dt->nomeMes)) imprime "5", pois na linha anterior, "p_dt" aponta para "nomeMes" que recebe a string "MARÇO" e pede para imprimir o len (length, comprimento) da str (string)
